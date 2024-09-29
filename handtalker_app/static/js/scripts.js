@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 AOS.init({
-    duration: 1000, // Duración de la animación en milisegundos
-    easing: 'ease-out', // Curva de aceleración
-    once: true, // Si quieres que la animación se ejecute solo una vez
+    duration: 1000, 
+    easing: 'ease-out', 
+    once: true, 
   });
